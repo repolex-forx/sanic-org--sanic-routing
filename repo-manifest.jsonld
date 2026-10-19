@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sanic-org/sanic-routing/commit/7863561c8670a1e990ce2295982e47b93fd3cab1",
       "git:hexsha": "7863561c8670a1e990ce2295982e47b93fd3cab1",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v23.12.0"
     },
     {
